@@ -132,14 +132,18 @@ This shows:
 > Isolated lab design
 
 > Understanding of virtual networking
+
+
 ---
+
+
 
 ## Kali Installation & System Preparation
 Objective: Prepare Kali for offensive operations and packet analysis.
 
 What I Did:
 
-## Verified internet connectivity: 
+### Verified internet connectivity: 
 > ping google.com
 
 > sudo apt update
